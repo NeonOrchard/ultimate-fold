@@ -1,0 +1,6 @@
+{
+  "name": "ultimate-fold",
+  "description": "Click-to-fold sections in Claude Code replies.",
+  "owner": { "name": "Neon Orchard" },
+  "plugins": [{ "name": "ultimate-fold", "source": "./" }]
+}

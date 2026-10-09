@@ -1,0 +1,7 @@
+{
+  "name": "ultimate-fold",
+  "version": "0.1.0",
+  "description": "Click-to-fold sections in Claude's replies, written as ::: fold Title ... :::",
+  "author": { "name": "Neon Orchard", "url": "https://github.com/NeonOrchardDEV" },
+  "types": "./types/index.d.ts"
+}
